@@ -1,0 +1,2 @@
+# shotoswm
+ShotOS Wayland compositor
