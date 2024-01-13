@@ -3,7 +3,7 @@ NOTES:
 - In my local environment, kwin can't find inputlib for some reason, so inputs aren't working
 
 TODO:
-- Get libinput functioning properly in kwin-land
 - Refactor the main file into a sort of manual unity build (#include all source files)
+- Get libinput functioning properly in kwin-land
 - Get 5D9 working in the compositor
 - Reevaluate design on 5D9/5D9d/shotoswm relationships
